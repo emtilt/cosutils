@@ -1,6 +1,12 @@
 This is intended to house utilities for coadding and using COS data. It is forked from Nico Nell's python port of Charles Danforth's IDL code (the latter of which had many other contributors, too, most notably Brain Keeney but also myself, to a small degree)
 
 
+Relevant websites:
+https://casa.colorado.edu/~danforth/science/cos/costools.html
+https://casa.colorado.edu/~nell/python-coaddx1d/
+https://github.com/cosmonaut/python-coaddx1d
+
+
 
 Nico Nell's original README is preserved below:
 

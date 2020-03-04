@@ -1,3 +1,10 @@
+This is intended to house utilities for coadding and using COS data. It is forked from Nico Nell's python port of Charles Danforth's IDL code (the latter of which had many other contributors, too, most notably Brain Keeney but also myself, to a small degree)
+
+
+
+Nico Nell's original README is preserved below:
+
+
 ## python-coaddx1d
 
 This is a python translation of Charles Danforth's coaddx1d IDL
